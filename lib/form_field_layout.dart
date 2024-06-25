@@ -25,7 +25,7 @@ class FormFieldLayout extends StatelessWidget {
   final TextEditingController isSame;
   final List<SignupDetails> signupDetails;
   final FocusNode focusNode;
-
+  final i = 0;
   @override
   Widget build(BuildContext context) {
     return Column(
